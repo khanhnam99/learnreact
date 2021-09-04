@@ -8,6 +8,7 @@
   npm i hoặc npm install
   (Nếu ai dùng yarn install)
 
-  - Bước 3:
-    Gõ npm start
-    nó sẽ tự nhảy ra link http://localhost:3000/
+- Bước 3:
+  Gõ npm start
+  nó sẽ tự nhảy ra link http://localhost:3000/
+  màn hình sẽ hiện ra react
